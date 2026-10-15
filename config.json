@@ -1,0 +1,10 @@
+{
+  "device_name": "Smart_LED_Hub",
+  "led_pin": 18,
+  "led_count": 60,
+  "brightness": 200,
+  "color_order": "GRB",
+  "mqtt_enabled": false,
+  "mqtt_broker": "192.168.1.100",
+  "mqtt_port": 1883
+}
