@@ -7,7 +7,7 @@ Ek simple aur efficient **Smart LED Hub** jo Addressable LEDs (WS2812B, NeoPixel
 
 ---
 
-## 📌 Features
+# 📌 Features
 - ⚡ **Multi-Effect Control:** Solid colors, gradients aur dynamic effects.
 - 🌐 **Smart Home Integration:** MQTT aur Home Assistant ke sath compatibility.
 - ⚙️ **Easy Configuration:** `config.json` ke zariye bina code edit kiye settings change karein.
